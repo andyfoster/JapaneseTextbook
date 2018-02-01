@@ -33,22 +33,28 @@ When you see a double consonant like this, just say the consonant sound for a bi
 In writing, they do a small TSU symbol in front of the sound to be pressed on. nippon, bakkari, wakkaru
 
 There can also be two vowels in a row. For Japanese words, they put an U character second. This just means you say the first letter, even if
-it's not a U for longer. Sometimes these words are written with a line above the letter (Tokyo, Toukyou). In Katakana, they use a hyphen-like symbol
+it's not a U for longer. Sometimes these words are written with a line above the letter (Tokyo, Toukyou,  とうきょう). In Katakana, they use a hyphen-like symbol
 to show the lengthening (koo-hi) so you should be careful when putting dashes and Japanese together.
-
-
 
 One more thing, they can put a small YA, YU or YO after the I line to make a xYA sound
 ki + small ya = kya
 ki+ smail yo = kyo
 
-
 That's it for their alphabet.
 
-Line one: The X LINE
+You should learn to write all these with the correct stroke order. It's generallytop-to-bottom and left-to-right but it makes learning the rest of the alphabet a lot easier and it makes the handwriting easier to read. DOn't get into bad habits as you will be constantly corrected if Japanese people see you write them the wrong way.
+
+Line one: The 1st Line (this one has no consonant)
 
 | A | I | U | E | O |
-| あ (a) | い (i) | (u) | え (e) | お (o)|
+|---|---|---|---|---|
+| あ (a) | い (i) | う (u) | え (e) | お (o) |
+
+compare this to the katakana line:
+
+| A | I | U | E | O |
+|---|---|---|---|---|
+| ア (a) | イ (i) | ウ (u) | エ (e) | オ (o) |
 
 Line Two: The Ka line
 
